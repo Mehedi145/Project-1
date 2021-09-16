@@ -159,7 +159,7 @@ p{
 }
 /* -------Offer------- */
 .offer{
-    background: linear-gradient(#ffffff, rgb(132, 252, 252));
+    background: linear-gradient(#ffffff, rgb(150 252 132));
     margin-top: 50px;
     padding: 20px 0px;
 }
